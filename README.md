@@ -3,6 +3,9 @@
 
 This project is a fully functional full-stack e-commerce web application. The system supports end-to-end workflows including user authentication, product browsing, cart management, order processing, and administrative control. The goal of this project was to understand how frontend, backend, and database layers interact in a production-style application.
 
+Tech Stack : 
+HTML, CSS, JavaScript, MongoDB
+
 ⚙️ Features
 👤 User Features
 
